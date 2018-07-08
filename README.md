@@ -6,7 +6,7 @@ Click in the following picture for a demo video.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=J88ACAQPcTY
 " target="_blank"><img src="https://www.artekit.eu/resources/doc/propboard-pbsaber/youtube_thumb.png" 
-alt="PropBoard: PBSaber" width="960" height="720" border="10" /></a>
+alt="PropBoard: PBSaber" width="480" height="360" border="10" /></a>
 
 ## Features (v1.0.0)
 
