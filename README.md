@@ -50,6 +50,6 @@ alt="PropBoard: PBSaber" width="640" height="360" border="10" /></a>
 
 ## Documentation
 
-* [PBSaber manual](https://www.artekit.eu/doc/propboard-pbsaber)
-* [PropBoard manual](https://www.artekit.eu/doc/propboard-manual)
+* [PBSaber manual](https://www.artekit.eu/doc/guides/propboard-pbsaber)
+* [PropBoard manual](https://www.artekit.eu/doc/guides/propboard-manual)
 * [PropBoard product page](https://www.artekit.eu/products/devboards/propboard)
