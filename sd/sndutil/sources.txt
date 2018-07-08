@@ -1,0 +1,7 @@
+beep.wav
+--------
+tone beep.wav
+By freesound.org user pan14
+https://freesound.org/people/pan14/sounds/263133/
+License: CC0 1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
